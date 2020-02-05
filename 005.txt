@@ -3,3 +3,10 @@ Day 005
 Pre-algebra :: Fractions
 https://www.khanacademy.org/math/pre-algebra/pre-algebra-fractions
 
+Fractions intro
+Fractions on the number line
+Equivalent fractions
+Comparing fractions
+Common denominators
+Decomposing fractions
+
