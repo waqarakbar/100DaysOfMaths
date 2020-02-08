@@ -1,4 +1,4 @@
-Day 001
+Day 001 - 2020-02-01
 
 Pre-algebra :: Arithmetic Properties
 https://www.khanacademy.org/math/pre-algebra/pre-algebra-arith-prop
