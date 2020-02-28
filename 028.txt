@@ -1,0 +1,10 @@
+Day 028 - 2020-02-28
+
+Pre-algebra :: Equations, expressions, and inequalities
+https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions
+
+
+Intro to variables
+Substitution & evaluating expressions
+Expression value intuition
+Constructing numeric expressions
