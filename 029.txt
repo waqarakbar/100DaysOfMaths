@@ -7,3 +7,4 @@ https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions
 Evaluating expressions word problems
 Writing algebraic expressions introduction
 Writing basic algebraic expressions word problems
+Algebraic equations basics
