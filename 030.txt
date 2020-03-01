@@ -7,3 +7,6 @@ https://www.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals
 Exponents
 Square roots
 Cube roots
+Exponent properties
+Negative exponents
+Scientific notation
